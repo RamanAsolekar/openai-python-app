@@ -1,0 +1,5 @@
+# Approximating Mathematical Constants using Minecraft
+
+## Abstract
+
+In this article we will use Minecraft to experimentally approximate the values of four different mathematical constants. The mathematical constants that we will approximate are $\sqrt{2}, \pi$, Euler's number $e$, and Ap\'{e}ry's constant $\zeta(3)$. We will begin each section with a brief history of the number being approximated and describe where it appears in mathematics. We then explain how we used Minecraft mechanics to approximate the constant. At the end of each section, we provide some ideas for how to apply our techniques to the approximation of other mathematical constants in Minecraft or elsewhere. This article is a proof of concept that Minecraft can be used in higher education. We should note that the goal of this article is not to have the most accurate approximations possible, the goal is to inspire people to have fun while learning about various mathematical topics. We hope you learn something new in this article and feel inspired to try some of these techniques on your own.
